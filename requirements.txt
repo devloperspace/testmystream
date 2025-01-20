@@ -1,5 +1,5 @@
-streamlit==1.25.0
-pandas==2.1.0
-plotly==5.17.0
-gTTS==2.3.2
-SpeechRecognition==3.9.0
+streamlit==1.40.1
+pandas==2.0.3
+gTTS==2.5.4
+SpeechRecognition==3.10.4
+plotly==5.24.1
