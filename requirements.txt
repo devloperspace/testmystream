@@ -1,0 +1,5 @@
+streamlit==1.25.0
+pandas==2.1.0
+plotly==5.17.0
+gTTS==2.3.2
+SpeechRecognition==3.9.0
